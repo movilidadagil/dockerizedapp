@@ -6,6 +6,6 @@ public class DockerizedAppTest {
 
     @Test
     public void testInputIsEven(){
-        assertTrue(DockerizedApp.checkIfInputIsAnEvenNumber(23)); // Assertion
+        assertTrue(DockerizedApp.checkIfInputIsAnEvenNumber(32)); // Assertion
     }
 }
